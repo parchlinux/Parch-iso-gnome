@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Parchlinux"
-iso_label="PARCH_$(date +%Y%m)"
+iso_name="Parchlinux Gnome"
+iso_label="PARCH_Gnome(date +%Y%m)"
 iso_publisher="Parch Linux <https://github.com/parch-os/>"
 iso_application="Parch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
