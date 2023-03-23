@@ -1,1 +1,1 @@
-# Parch-os iso template
+# Parch Linux Gnome edition
