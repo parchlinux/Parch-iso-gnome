@@ -29,13 +29,13 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-falkon
 fsarchiver
 git
 gnu-netcat
 gpart
 gpm
 gptfdisk
+gvfs
 grml-zsh-config
 grub
 hdparm
@@ -80,7 +80,6 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
 openconnect
 openssh
 openvpn
@@ -94,7 +93,6 @@ pv
 python
 python-psutil
 python-systemd
-qemu-guest-agent
 refind
 #reflector
 reiserfsprogs
@@ -116,6 +114,7 @@ testdisk
 tmux
 tpm2-tss
 udftools
+udisks2
 usb_modeswitch
 usbmuxd
 usbutils
@@ -138,14 +137,18 @@ openssl-1.1
 openssl
 
 #Desktop
+gnome
+firefox
+unzip
+unrar
 
 #systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
-neofetch
+neofetch-git
 keepassxc
-octopi-git
+
 
 
 #parchlinuxstuff
@@ -155,3 +158,12 @@ os-prober
 paru
 parch-branding
 parch-pacman
+parch-os-wallpapers
+qt5-styleplugins
+parch-dorood
+warpinator
+appimagelauncher
+estedad-fonts
+hack-nerd-fonts
+parch-emoji-ios
+emote
