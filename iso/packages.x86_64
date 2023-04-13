@@ -137,7 +137,8 @@ openssl-1.1
 openssl
 
 #Desktop
-gnome
+unity-meta
+engrampa
 firefox
 unzip
 unrar
@@ -166,3 +167,4 @@ appimagelauncher
 estedad-fonts
 hack-nerd-fonts
 parch-emoji-ios
+emote

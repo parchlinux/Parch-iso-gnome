@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Parchlinux Gnome"
-iso_label="Parchlinux_Gnome(date +%Y%m)"
-iso_publisher="Parch Linux <https://github.com/parch-os/>"
-iso_application="Parch Linux Gnome Live/Rescue CD"
+iso_name="Parchlinux Unity"
+iso_label="Parchlinux_Unity(date +%Y%m)"
+iso_publisher="Parch Linux <https://github.com/parchlinux/>"
+iso_application="Parch Linux Unity Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
