@@ -1,1 +1,1 @@
-# Parch Linux Unity edition
+# Parch Linux Gnome edition
