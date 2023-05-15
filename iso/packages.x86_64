@@ -149,6 +149,9 @@ packagekit-qt5
 neofetch-git
 keepassxc
 networkmanager
+motrix-bin
+parch-firefox-config
+ttf-ms-fonts
 
 
 #parchlinuxstuff
@@ -159,8 +162,7 @@ paru
 parch-branding
 parch-pacman
 parch-os-wallpapers
-qt5-styleplugins
-parch-dorood
+vazirmatn-fonts
 warpinator
 appimagelauncher
 estedad-fonts
