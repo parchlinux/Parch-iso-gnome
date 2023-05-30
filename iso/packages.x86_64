@@ -152,7 +152,9 @@ networkmanager
 motrix-bin
 parch-firefox-config
 ttf-ms-fonts
-
+android-file-transfer
+gvfs-mtp
+broadcom-wl-dkms
 
 #parchlinuxstuff
 calamares
