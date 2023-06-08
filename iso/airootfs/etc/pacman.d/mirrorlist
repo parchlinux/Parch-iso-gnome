@@ -1,0 +1,10 @@
+## Iran
+#Server = http://mirror.arvancloud.com/archlinux/$repo/os/$arch
+#Server = https://mirror.arvancloud.com/archlinux/$repo/os/$arch
+#Server = http://mirror.bardia.tech/archlinux/$repo/os/$arch
+#Server = https://mirror.bardia.tech/archlinux/$repo/os/$arch
+#Server = http://mirror.hostiran.ir/archlinux/$repo/os/$arch
+#Server = https://mirror.hostiran.ir/archlinux/$repo/os/$arch
+Server = http://repo.iut.ac.ir/repo/archlinux/$repo/os/$arch
+#Server = http://mirror.nak-mci.ir/arch/$repo/os/$arch
+
