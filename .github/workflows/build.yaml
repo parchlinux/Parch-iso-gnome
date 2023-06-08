@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install Packages via Pacman
-        run: pacman -Sy; pacman --noconfirm -S git archiso python python-pip
+        run: pacman -Sy; pacman --noconfirm -S git archiso python python-pip reflector
       - name: Install Python packages via pip
         run: pip install -U pip pyGithub
       - name: Change Arch docker mirror
