@@ -21,6 +21,8 @@ jobs:
         run: pacman -Sy; pacman --noconfirm -S git archiso python python-pip
       - name: Install Python packages via pip
         run: pip install -U pip pyGithub
+      - name: Change Arch docker mirror
+        run: reflector -c "US" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
       - name: Build image
         run: mkarchiso -v iso/
       - name: Upload iso to the release
