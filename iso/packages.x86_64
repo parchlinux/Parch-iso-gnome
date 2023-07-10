@@ -151,11 +151,12 @@ keepassxc
 networkmanager
 motrix-bin
 parch-firefox-config
-ttf-ms-fonts
+ttf-dejavu-nerd
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
+
 #videocodec
 jasper
 lame
