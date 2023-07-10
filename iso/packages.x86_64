@@ -171,6 +171,7 @@ gnome-system-monitor
 gnome-text-editor
 gnome-tour
 gnome-weather
+gnome-power-manager
 gvfs
 gvfs-afc
 gvfs-goa
@@ -187,6 +188,7 @@ totem
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
+
 
 #systemutils
 btop
