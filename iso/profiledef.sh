@@ -3,7 +3,7 @@
 
 iso_name="Parchlinux Gnome"
 iso_label="PARCHLINUX_Gnome_$(date +%Y%m)"
-iso_publisher="Parch Linux <https://github.com/parch-os/>"
+iso_publisher="Parch Linux <https://parchlinux.ir>"
 iso_application="Parch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
