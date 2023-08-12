@@ -45,7 +45,6 @@ intel-ucode
 #ipw2200-fw
 irssi
 iw
-iwd
 jfsutils
 kitty-terminfo
 less
@@ -188,7 +187,8 @@ totem
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
-
+flatpak
+gnome-software-packagekit-plugin
 
 #systemutils
 btop
@@ -197,8 +197,6 @@ packagekit-qt5
 neofetch-git
 keepassxc
 networkmanager
-ttf-dejavu
-ttf-dejavu-nerd
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
@@ -239,10 +237,10 @@ os-prober
 paru
 parch-branding
 parch-pacman
-parch-os-wallpapers
+parch-gnome-backgrounds
 vazirmatn-fonts
-warpinator
 appimagelauncher
+parch-qt-gnome
 estedad-fonts
 hack-nerd-fonts
 parch-emoji-ios
