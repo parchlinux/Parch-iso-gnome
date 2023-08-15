@@ -1,7 +1,11 @@
 alsa-utils
+pipewire
+pipewire-pulse
+gstreamer-vaapi
+gst-plugin-pipewire
+gst-plugins-good
 amd-ucode
 arch-install-scripts
-archinstall
 b43-fwcutter
 base
 base-devel
@@ -189,6 +193,11 @@ xdg-user-dirs-gtk
 yelp
 flatpak
 gnome-software-packagekit-plugin
+gnome-firmware
+fwupd
+blackbox-terminal
+nautilus-open-any-terminal
+parch-gdm-config
 
 #systemutils
 btop
@@ -240,7 +249,6 @@ parch-pacman
 parch-gnome-backgrounds
 vazirmatn-fonts
 appimagelauncher
-parch-qt-gnome
 estedad-fonts
 hack-nerd-fonts
 parch-emoji-ios
