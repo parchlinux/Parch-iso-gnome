@@ -156,7 +156,6 @@ gnome-characters
 gnome-clocks
 gnome-color-manager
 gnome-connections
-gnome-terminal
 gnome-contacts
 gnome-control-center
 gnome-tweaks
@@ -196,8 +195,10 @@ gnome-software-packagekit-plugin
 gnome-firmware
 fwupd
 blackbox-terminal
-nautilus-open-any-terminal
 parch-gdm-config
+parch-welcome
+parch-grub
+python-pyqt6
 
 #systemutils
 btop
