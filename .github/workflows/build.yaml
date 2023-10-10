@@ -18,11 +18,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install Packages via Pacman
-        run: pacman -Sy; pacman --noconfirm -S git archiso python python-pygithub reflector
+        run: pacman -Sy; pacman --noconfirm -S git archiso python python-pygithub github-cli reflector p7zip
       - name: Change Arch docker mirror
         run: reflector -c "US" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
       - name: Build image
         run: mkarchiso -v iso/
       - name: Upload iso to the release
-        run: python tools/upload_asset.py
+        run: |
+          cd ./out
+          7z -v500m a "$(ls *.iso)".zip "$(ls *.iso)"
+          md5sum * > md5sums.txt
+          gh release upload ${{ github.event.release.tag_name }} * -R ${{ github.repository }}
 
