@@ -168,7 +168,7 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
-gnome-software
+#gnome-software
 gnome-system-monitor
 gnome-text-editor
 gnome-tour
@@ -242,7 +242,7 @@ flac
 
 #parchlinuxstuff
 calamares
-parchlinux-cala-config
+calamares-parch
 os-prober
 paru
 parch-branding
