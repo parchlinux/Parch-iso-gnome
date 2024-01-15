@@ -170,7 +170,6 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
-#gnome-software
 gnome-system-monitor
 gnome-text-editor
 gnome-tour
@@ -193,14 +192,13 @@ xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
 flatpak
-gnome-software-packagekit-plugin
 gnome-firmware
 fwupd
 blackbox-terminal
 parch-gdm-config
 parch-welcome
 parch-grub
-python-pyqt6
+
 
 #systemutils
 btop
@@ -241,6 +239,10 @@ faac
 faad2
 flac
 
+#themes
+adw-gtk3-git
+adwaita-qt5-git
+adwaita-qt6-git
 
 #parchlinuxstuff
 calamares
@@ -255,5 +257,4 @@ vazirmatn-fonts
 estedad-fonts
 hack-nerd-fonts
 parch-emoji-ios
-ttf-dejavu
 sof-firmware
