@@ -191,9 +191,6 @@ totem
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
-flatpak
-gnome-firmware
-fwupd
 blackbox-terminal
 parch-gdm-config
 parch-welcome
@@ -203,7 +200,6 @@ parch-grub
 #systemutils
 btop
 xdg-user-dirs
-packagekit-qt5
 neofetch-git
 keepassxc
 networkmanager
@@ -254,10 +250,10 @@ parch-branding
 parch-pacman
 parch-gnome-backgrounds
 vazirmatn-fonts
-estedad-fonts
 hack-nerd-fonts
 parch-emoji-ios
 sof-firmware
 parchlinux-quickstart
 text-engine
 extension-manager
+parch-pantheon

@@ -3,5 +3,5 @@
 #
 # Syntax: simple "KEY=VAL" pairs on separate lines
 #
-QT_QPA_PLATFORMTHEME=adwaita
-QT_STYLE_OVERRIDE=adwaita
+QT_QPA_PLATFORMTHEME=adwaita-dark
+QT_STYLE_OVERRIDE=adwaita-dark
