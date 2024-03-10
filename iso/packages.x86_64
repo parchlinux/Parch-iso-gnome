@@ -257,3 +257,5 @@ parchlinux-quickstart
 text-engine
 extension-manager
 parch-pantheon
+parch-plymouth
+plymouth
