@@ -25,15 +25,15 @@ main() {
     
     echo -e "$Green### start install packeges for build $reponame ###$reset"
     echo -e "$Brown### checking your os ###$reset"
-    if type pacman >/dev/null 2>&1;then
-        if [ "$(id -u)" != "0" ]; then
+    if type pacman >/dev/null 2>&1;then # Check for pacman
+        if [ "$(id -u)" != "0" ]; then # Check for root
             echo -e "$Red### you are not in root$reset"
             exit 1
-        else
-            install
+        else # Everything is OK go build
+            install  # Installing requirements
             echo -e "$Blue### install complete ###$reset"
             echo -e "$Green### start build $reponame with archiso ###$reset"
-            build
+            build  # :)
             makezip
         fi
     else
