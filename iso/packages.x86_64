@@ -234,6 +234,7 @@ a52dec
 faac
 faad2
 flac
+boost
 
 #themes
 adw-gtk3-git
