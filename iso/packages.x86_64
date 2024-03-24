@@ -138,6 +138,9 @@ zsh
 archlinux-keyring
 openssl-1.1
 openssl
+bluez
+bluez-utils
+parch-bluetooth
 
 #Desktop
 firefox
@@ -151,6 +154,7 @@ baobab
 eog
 evince
 gdm
+gnome-bluetooth
 gnome-backgrounds
 gnome-calculator
 gnome-calendar
@@ -187,7 +191,7 @@ nautilus
 rygel
 simple-scan
 sushi
-totem
+celluloid
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
@@ -195,18 +199,21 @@ blackbox-terminal
 parch-gdm-config
 parch-welcome
 parch-grub
-
+papirus-icon-theme
+gnome-software-packagekit-plugin
+gnome-software-packagekit
 
 #systemutils
 btop
 xdg-user-dirs
 neofetch-git
-keepassxc
 networkmanager
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
+
+
 
 #videocodec
 jasper
@@ -254,7 +261,6 @@ vazirmatn-fonts
 hack-nerd-fonts
 parch-emoji-ios
 sof-firmware
-parchlinux-quickstart
 text-engine
 extension-manager
 parch-pantheon
