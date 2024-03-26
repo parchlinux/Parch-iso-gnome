@@ -142,6 +142,9 @@ bluez
 bluez-utils
 parch-bluetooth
 
+#Tasky
+tasky
+
 #Desktop
 firefox
 unzip
