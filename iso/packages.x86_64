@@ -271,3 +271,7 @@ extension-manager
 parch-pantheon
 parch-plymouth
 plymouth
+
+#jetbrains fonts
+ttf-jetbrains-mono-nerd
+ttf-jetbrains-mono
