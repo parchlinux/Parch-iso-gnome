@@ -122,6 +122,8 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
+#neovim
+neovim
 virtualbox-guest-utils-nox
 vpnc
 which
@@ -141,6 +143,9 @@ openssl
 bluez
 bluez-utils
 parch-bluetooth
+
+#Tasky
+tasky
 
 #Desktop
 firefox
@@ -266,3 +271,7 @@ extension-manager
 parch-pantheon
 parch-plymouth
 plymouth
+
+#jetbrains fonts
+ttf-jetbrains-mono-nerd
+ttf-jetbrains-mono
