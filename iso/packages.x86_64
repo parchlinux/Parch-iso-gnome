@@ -122,8 +122,6 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-#neovim
-neovim
 virtualbox-guest-utils-nox
 vpnc
 which
@@ -152,7 +150,6 @@ firefox
 unzip
 unrar
 vulkan-radeon
-micro
 
 #gnomepackeges
 baobab
@@ -215,6 +212,12 @@ android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
+
+#Apps needed for gnome
+fractal
+tuba
+pipeline-gtk
+
 
 
 
