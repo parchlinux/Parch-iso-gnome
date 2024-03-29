@@ -179,6 +179,7 @@ gnome-text-editor
 gnome-tour
 gnome-weather
 gnome-power-manager
+snapshot
 gvfs
 gvfs-afc
 gvfs-goa
@@ -199,7 +200,6 @@ blackbox-terminal
 parch-gdm-config
 parch-welcome
 parch-grub
-papirus-icon-theme
 gnome-software-packagekit-plugin
 gnome-software-packagekit
 
@@ -273,6 +273,3 @@ parch-pantheon
 parch-plymouth
 plymouth
 
-#jetbrains fonts
-ttf-jetbrains-mono-nerd
-ttf-jetbrains-mono
