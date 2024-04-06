@@ -196,7 +196,7 @@ celluloid
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
-blackbox-terminal
+gnome-terminal
 parch-gdm-config
 parch-welcome
 parch-grub
