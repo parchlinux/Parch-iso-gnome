@@ -74,6 +74,7 @@ mkinitcpio-nfs-utils
 modemmanager
 mtools
 nano
+noto-fonts-cjk
 nbd
 ndisc6
 nfs-utils
