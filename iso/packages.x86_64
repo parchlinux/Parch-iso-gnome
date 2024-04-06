@@ -1,6 +1,7 @@
 alsa-utils
 pipewire
 pipewire-pulse
+ttf-apple-emoji
 gstreamer-vaapi
 gst-plugin-pipewire
 gst-plugins-good
