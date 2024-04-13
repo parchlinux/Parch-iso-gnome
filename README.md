@@ -39,10 +39,12 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 
 | نام | استفاده | دسته بندی |
 |--------------|----------|------------|
-| Tuba | مشتری برای مرور فدیورس. | اجتماعی |
-| Fractal | مشتری برای مرور [ماتریس]. | اجتماعی |
-| PipeLine | مشتری برای تماشای peertube و piped youtube | فیلم و موسیقی |
+| Tuba | کلاینتی برای مرور فدیورس. | اجتماعی |
+| Fractal | کلاینتی برای مرور [ماتریس]. | اجتماعی |
+| PipeLine | کلاینتی برای تماشای peertube و piped youtube | فیلم و موسیقی |
 | celluloid | یک MPV front-end نوشته شده در GTK | فیلم و موسیقی |
 | G4Music | یک پخش کننده موسیقی ساده و آسان برای استفاده که در vala و GTK | فیلم و موسیقی |
 | FireFox | مرورگر وب سریع، خصوصی و ایمن | مرورگر وب |
 | Folio | یادداشت برداری در Markdown | بهره وری |
+
+</div>
