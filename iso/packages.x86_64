@@ -203,7 +203,8 @@ papirus-icon-theme
 
 #parchlinuxstuff
 calamares
-calamares-parch
+calamares-parch-gnome
+gnome-initial-setup
 gnome-parch
 os-prober
 paru
@@ -222,3 +223,4 @@ plymouth
 aptpac
 power-profiles-daemon
 fastfetch
+parch-welcome
