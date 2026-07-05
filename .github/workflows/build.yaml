@@ -8,7 +8,7 @@ env:
   name: ${{ github.event.repository.name }}
   release_name: ${{ github.ref_name }}
   GH_TOKEN: ${{ github.token }}
-  VARIANT: mini
+  VARIANT: gnome
 jobs:
   build:
     permissions:
