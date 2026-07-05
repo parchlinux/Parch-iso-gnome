@@ -1,6 +1,7 @@
 alsa-utils
 pipewire
 pipewire-pulse
+pipewire-alsa
 ttf-apple-emoji
 gstreamer-vaapi
 gst-plugin-pipewire
@@ -8,6 +9,7 @@ gst-plugins-good
 amd-ucode
 arch-install-scripts
 b43-fwcutter
+broadcom-wl-dkms
 base
 base-devel
 bind
@@ -30,12 +32,10 @@ edk2-shell
 efibootmgr
 espeakup
 ethtool
-exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
 git
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -95,7 +95,6 @@ python
 python-psutil
 python-systemd
 refind
-reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -139,11 +138,8 @@ bluez
 bluez-utils
 parch-bluetooth
 
-#Tasky
-tasky
-
 #Desktop
-firefox
+zen-browser
 unzip
 unrar
 vulkan-radeon
@@ -159,14 +155,20 @@ networkmanager
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
+gvfs-goa
+inetutils
+usbutils
+gvfs-dnssd
+gvfs-onedrive
 
 #Apps needed for gnome
 fractal
 tuba
-pipeline-gtk
-folio
 
-
+#gnome extensions
+nautilus-open-in-ptyxis
+gnome-shell-extension-persian-calendar
+gnome-shell-extension-appindicator
 
 #videocodec
 jasper
@@ -197,22 +199,19 @@ flac
 boost
 qt6ct
 
-#themes
-adw-gtk3-git
-papirus-icon-theme
 
 #parchlinuxstuff
 calamares
-calamares-parch-gnome
-gnome-initial-setup
+calamares-parch
+mirrorman
 gnome-parch
 os-prober
+packet
 paru
+parch-grub
 parch-branding
-parch-pacman
+parch-pacman-next
 parch-gnome-backgrounds
-vazirmatn-fonts
-hack-nerd-fonts
 parch-emoji-ios
 sof-firmware
 text-engine
@@ -220,7 +219,8 @@ extension-manager
 parch-budgie
 parch-plymouth
 plymouth
-aptpac
 power-profiles-daemon
 fastfetch
-parch-welcome
+parch-dorood
+dastore
+gnome-shell-extension-desktop-icons-ng

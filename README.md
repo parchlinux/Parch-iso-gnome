@@ -10,21 +10,7 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 
 ![screenshot](./image/screenshot.png)
 
-### Pre-Installed Applications
-
-| Name         | Usage     | Category |
-|--------------|-----------|------------|
-| Tuba         | A client to Browse the fediverse.      | Social        |
-| Fractal      | A client to Browse the [Matrix].  | Social       |
-| PipeLine | A client to watch peertube and piped youtube | Movie & Music |
-| Celluloid | A MPV front-end written in GTK | Movie & Music |
-| G4Music | A Simple and easy to use Music Player written in vala and GTK | Movie & Music | 
-| Firefox | Fast, Private & Safe Web Browser | Web Browser |
-| Folio | Take notes in Markdown | Productivity |
-
-
-
-‌
+**[Pre-Installed Applications](./docs/applications-en.md)**
 # Fa
 
 <div dir="rtl">
@@ -35,16 +21,7 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 
 ![نماگرفت](./image/screenshot.png)
 
-### برنامه های از پیش نصب شده
+**[برنامه های از پیش نصب شده](./docs/applications-fa.md)**
 
-| نام | استفاده | دسته بندی |
-|--------------|----------|------------|
-| Tuba | کلاینتی برای مرور فدیورس. | اجتماعی |
-| Fractal | کلاینتی برای مرور [ماتریس]. | اجتماعی |
-| PipeLine | کلاینتی برای تماشای peertube و piped youtube | فیلم و موسیقی |
-| celluloid | یک MPV front-end نوشته شده در GTK | فیلم و موسیقی |
-| G4Music | یک پخش کننده موسیقی ساده و آسان برای استفاده که در vala و GTK | فیلم و موسیقی |
-| FireFox | مرورگر وب سریع، خصوصی و ایمن | مرورگر وب |
-| Folio | یادداشت برداری در Markdown | بهره وری |
 
 </div>
