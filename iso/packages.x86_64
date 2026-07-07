@@ -212,6 +212,7 @@ parch-branding
 parch-pacman-next
 parch-gnome-backgrounds
 parch-emoji-ios
+parch-iso-writer
 sof-firmware
 text-engine
 extension-manager
