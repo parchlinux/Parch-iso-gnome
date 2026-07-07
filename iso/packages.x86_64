@@ -3,7 +3,6 @@ pipewire
 pipewire-pulse
 pipewire-alsa
 ttf-apple-emoji
-gstreamer-vaapi
 gst-plugin-pipewire
 gst-plugins-good
 amd-ucode
