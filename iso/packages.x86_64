@@ -2,7 +2,6 @@ alsa-utils
 pipewire
 pipewire-pulse
 pipewire-alsa
-ttf-apple-emoji
 gst-plugin-pipewire
 gst-plugins-good
 amd-ucode
@@ -156,13 +155,9 @@ gvfs-mtp
 broadcom-wl-dkms
 gvfs-goa
 inetutils
-usbutils
 gvfs-dnssd
 gvfs-onedrive
 
-#Apps needed for gnome
-fractal
-tuba
 
 #gnome extensions
 nautilus-open-in-ptyxis
@@ -195,7 +190,6 @@ faac
 faad2
 flac
 boost
-qt6ct
 
 
 #parchlinuxstuff
@@ -210,19 +204,15 @@ parch-grub
 parch-branding
 parch-pacman-next
 pacman-contrib
-parch-gnome-backgrounds
 parch-emoji-ios
 parch-iso-writer
-sof-firmware
 text-engine
 extension-manager
-parch-budgie
 parch-plymouth
 plymouth
 power-profiles-daemon
 fastfetch
 dastore
-gnome-shell-extension-desktop-icons-ng
 pdm
 parch-kernel-manager
 shelly
