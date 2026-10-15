@@ -162,9 +162,6 @@ usbutils
 gvfs-dnssd
 gvfs-onedrive
 
-#Apps needed for gnome
-fractal
-tuba
 
 #gnome extensions
 nautilus-open-in-ptyxis
