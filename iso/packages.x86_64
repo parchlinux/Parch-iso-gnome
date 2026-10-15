@@ -165,7 +165,6 @@ gvfs-onedrive
 
 #gnome extensions
 nautilus-open-in-ptyxis
-gnome-shell-extension-appindicator
 
 #videocodec
 jasper
@@ -221,7 +220,6 @@ plymouth
 power-profiles-daemon
 fastfetch
 dastore
-gnome-shell-extension-desktop-icons-ng
 pdm
 parch-kernel-manager
 shelly
