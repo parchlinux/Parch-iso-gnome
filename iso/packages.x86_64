@@ -1,7 +1,9 @@
 alsa-utils
 pipewire
+pipewire-audio
 pipewire-pulse
 pipewire-alsa
+wireplumber
 ttf-apple-emoji
 gst-plugin-pipewire
 gst-plugins-good
