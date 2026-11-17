@@ -121,6 +121,10 @@ usbutils
 pciutils
 vim
 virtualbox-guest-utils
+open-vm-tools
+qemu-guest-agent
+spice-vdagent
+xf86-input-libinput
 vpnc
 which
 wireless-regdb
@@ -222,6 +226,6 @@ fastfetch
 dastore
 pdm
 parch-kernel-manager
-shelly
 parch-welcome
+pastor
 parch-base-config
