@@ -1,0 +1,16 @@
+[org/gnome/shell]
+welcome-dialog-last-shown-version='999'
+enabled-extensions=['ding@rastersoft.com', 'appindicatorsupport@rgcjonas.gmail.com']
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+gtk-theme='adw-gtk3-dark'
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'ParchTools']
+
+[org/gnome/desktop/app-folders/folders/ParchTools]
+name='Parch Tools'
+translate=false
+apps=['com.parchlinux.welcome.desktop', 'com.parchlinux.kernelmanager.desktop', 'com.parchlinux.mirrorman.desktop', 'com.parchlinux.mirrorman.dev.desktop', 'com.parchlinux.DriverManager.desktop', 'com.parchlinux.Updater.desktop', 'com.parchlinux.pastor.desktop', 'com.parchlinux.pordle.desktop', 'com.parchlinux.gamehub.desktop', 'parchdroid.desktop', 'kcm_parchdroid.desktop', 'parchlinux-reflector-simple.desktop', 'Parch ISO Writer.desktop', 'io.github.nozwock.Packet.desktop', 'dastore.desktop', 'calamares.desktop', 'shelly.desktop']
+categories=['X-Parch']
