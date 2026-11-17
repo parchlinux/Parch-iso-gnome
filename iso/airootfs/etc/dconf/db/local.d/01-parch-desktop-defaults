@@ -1,10 +1,9 @@
 [org/gnome/shell]
 welcome-dialog-last-shown-version='999'
-enabled-extensions=['ding@rastersoft.com', 'appindicatorsupport@rgcjonas.gmail.com']
+enabled-extensions=@as []
 
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
-gtk-theme='adw-gtk3-dark'
 
 [org/gnome/desktop/app-folders]
 folder-children=['Utilities', 'ParchTools']
